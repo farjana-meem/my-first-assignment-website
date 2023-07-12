@@ -13,15 +13,51 @@
     font-size: 20px
 }
 .first-img{
-    width: 250px;
+    width: 250px;                                                                                                  
     align-items: end;
 }
 .btn{
     font-weight: 400px;
     font-size: large;
     padding: 8px 15px;
-    color: aliceblue;
-    background-color:#f30e47
+    color: aliceblue;       
+    background-color:#f30e47 
+}
+.our-featured {                  
+    
+    padding-top: 20px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+    align-items: center;                                                                                                                                                                                                                                                                                                                                                          
+    text-align: center; 
+}
+.image-all{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 20px;
+    align-items: center;
+}
+.image1{
+    height:250px;
+    width: 250px;
+    
+    background-color: rgb(30, 23, 174);
+    border-radius: 50px 0px 50px 0px;
+    
+}
+.image2{
+    height:250px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: #f30e47;
+    border-radius: 50px 0px 50px 0px;
+}
+.image3{
+    height:250px;
+    width: 250px;
+    border : 20px;
+    background-color:rgb(11, 183, 82);
+    border-radius:50px 0px 50px 0px ;
+    
 }
 
-
+                                                                                      
