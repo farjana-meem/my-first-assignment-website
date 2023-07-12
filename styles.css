@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* banner section start here  */
+.banner{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(225, 104, 124);
+}
+.banner-text{
+    font-size: 20px
+}
+.first-img{
+    width: 250px;
+    align-items: end;
+}
+.btn{
+    font-weight: 400px;
+    font-size: large;
+    padding: 8px 15px;
+    color: aliceblue;
+    background-color:#f30e47
+}
+
+
