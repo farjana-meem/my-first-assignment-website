@@ -61,9 +61,30 @@
 }
 .offer{
     display: flex;
+
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(230, 146, 160);
+    background-color: rgb(205, 185, 189);
 }
+.subscribe{
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+    height: 100vh;
+    background-image: url(./Rectangle\ 9.png);
+    background-repeat: no-repeat;
+
+}
+
+.sub-title{
+    padding: 150px;
+}
+.sub-btn{
+    width: 700px;
+    height: 60px;
+}
+
+
 
                                                                                       
